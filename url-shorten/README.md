@@ -63,6 +63,9 @@ database schema
 
 ## STEP-5:High level design
 objectives - generate a short and unique key for a given url
+![Screenshot_2025-06-12_15-34-30](https://github.com/user-attachments/assets/07a78b9f-4e69-485d-8c53-fa4d0a5fe355)
+
+
 
 components
 1. load blanacer
